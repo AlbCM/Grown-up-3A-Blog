@@ -2,4 +2,13 @@
 layout: page
 title: About
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-01-01-welcome-to-lagrange %}).
+
+In this blog we will talk about how the games have been evolving in the history,since
+the first game ever untill now.
+
+These days the games are considered sports,and now we have some aspects that we will explain 
+some of them after,however,we can say that the videogames are one of the biggest 
+industries around the world.
+
+Also we will talk about many generes of videgames,we can say that there's games of everything
+literally everything.So we hope you guys enjoy "the videogames are powerful"
