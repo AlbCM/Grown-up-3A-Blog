@@ -1,12 +1,21 @@
 ---
 layout: post
 title: "Welcome!"
-author: "Paul Le"
+author: "Adony, Albeiro and Jhon"
 categories: journal
 tags: [documentation,sample]
 image: descarga.png
 ---
 
+In this blog we will talk about how the games have been evolving in the history,since
+the first game ever untill now.
+
+These days the games are considered sports,and now we have some aspects that we will explain 
+some of them after,however,we can say that the videogames are one of the biggest 
+industries around the world.
+
+Also we will talk about many generes of videgames,we can say that there's games of everything
+literally everything.So we hope you guys enjoy "the videogames are powerful"
 
 
 
