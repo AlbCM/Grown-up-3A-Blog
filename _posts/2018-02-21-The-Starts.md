@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The stars"
+title: "The beginning"
 author: "Adony, Albeiro and Jhon"
 categories: journal
 tags: [documentation,sample]
