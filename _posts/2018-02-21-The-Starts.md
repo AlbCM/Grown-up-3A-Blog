@@ -4,7 +4,7 @@ title: "The stars"
 author: "Adony, Albeiro and Jhon"
 categories: journal
 tags: [documentation,sample]
-image: descarga.png
+image: starts.jpg
 ---
 
 
