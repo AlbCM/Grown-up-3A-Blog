@@ -21,7 +21,7 @@ If you wanna be part of the players and you play some of these games, book your 
 * Team Fortress 2
 * League of legends
 
-After a guhely succesful first two events, this one is set to be even better, getting the attention of hundreds of pc gamers to Convention Center of the University of Córdoba.
+After a hugely succesful first two events, this one is set to be even better, getting the attention of hundreds of pc gamers to Convention Center of the University of Córdoba.
 
 This event is a unique event, a chance to get your game style in the hands of hundreds of viewers and win a lot of rewards. This is an unmissable opportunity to get face-to-face with the best players of this city.
 
